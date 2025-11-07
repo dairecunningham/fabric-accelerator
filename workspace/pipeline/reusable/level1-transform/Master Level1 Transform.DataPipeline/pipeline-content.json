@@ -225,7 +225,7 @@
       },
       "SilverObjectID": {
         "type": "string",
-        "defaultValue": "cc80a0ab-603d-4df9-bdfc-c35a7e8ab095"
+        "defaultValue": "cd12d5c4-e5af-4264-909f-7547dcdea246"
       },
       "SilverWorkspaceID": {
         "type": "string",
