@@ -89,7 +89,7 @@
       "properties": {
         "eventScope": "Item",
         "workspaceId": "9316288a-d54b-4f30-ace7-19991c1621a6",
-        "itemId": "a6157c88-f1d6-410e-9cf2-756fdc90882dc680c41d-4149-4ab8-b38e-b9770b7d36e5",
+        "itemId": "c680c41d-4149-4ab8-b38e-b9770b7d36e5",
         "includedEventTypes": [
           "Microsoft.Fabric.JobEvents.ItemJobCreated",
           "Microsoft.Fabric.JobEvents.ItemJobStatusChanged",
